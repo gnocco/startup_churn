@@ -53,3 +53,5 @@ churn$MultipleLines <- as.factor(mapvalues(churn$MultipleLines,
                                            from=c("No phone service"),
                                            to=c("No")))
 
+
+
